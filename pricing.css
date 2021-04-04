@@ -476,9 +476,9 @@ input {
     }
     .contact-section2 {
         box-sizing: border-box;
-        padding: 0 12px;
+        padding: 0 3%;
         display: grid;
-        grid-template-columns: repeat(1, 400px);
+        grid-template-columns: repeat(1, 99%);
         grid-template-rows: 300px;
     }
     /* .................................hamburger.................................... */
